@@ -1,0 +1,19 @@
+This class contained learning common design patterns and later on scrum
+
+Baseball:
+  This application used the strategy pattern for different baseball players abilities.
+  The program keeps track of pitchers, batters, fielders, and catcher. 
+  All of the players throw, catch, and bat differently. 
+  
+FileManger:
+  Use Singeton and observer method to...
+  Create a class that acts as a file manager.   
+  The class is a singleton class that accesses a file.  
+  When the file is changed, it notifies it's observers.  
+  The file manager stores integers in a file that contain grades. 
+  
+Threads:
+  Use threads to match the desired word in a text file.
+  This can be done with single or multi threading.
+  
+  

@@ -1,0 +1,13 @@
+These files are from my Artificial Intelligence Class
+
+astar:
+  This contains code to optimize a search through a maze with updating obstacles
+  
+GeneticAlgorithm:
+  Contains all the code to optimize a schedule for teachers
+  
+TensorFlow:
+  Contains a document with data from video game character decision making
+
+EasyNN:
+  A report with the EasyNN application based on the tensor flow assignment

@@ -1,2 +1,4 @@
 # School-Projects
-This contains most of the coding I have done in school
+This contains coding I have done in school
+
+Feel free to explore the different folders
